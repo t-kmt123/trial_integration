@@ -4,7 +4,7 @@
 	<remote  name="openembedded" fetch="git://git.openembedded.org/" pushurl="git://git.openembedded.org/" />
 	<remote  name="linaro" fetch="git://git.linaro.org/openembedded" pushurl="git://git.linaro.org/openembedded" />
 	<remote  name="renesas-rcar" fetch="https://github.com/renesas-rcar" pushurl="https://github.com/renesas-rcar" />
-	<remote  name="agl-ic-eg" fetch="https://github.com/agl-ic-eg/" pushurl="https://github.com/agl-ic-eg/" />
+	<remote  name="agl-ic-eg" fetch="https://github.com/t-kmt123/" pushurl="https://github.com/t-kmt123/" />
 	<remote  name="aglexport" fetch="https://github.com/AGLExport/" pushurl="https://github.com/AGLExport/" />
 	<remote  name="qt5" fetch="https://github.com/meta-qt5/"  pushurl="https://github.com/meta-qt5/" />
 	
